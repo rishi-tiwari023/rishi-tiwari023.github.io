@@ -21,5 +21,5 @@ Welcome to my Portfolio Website! This project was created to showcase my skills 
 - **Contact** – A section with my contact information or a form to reach out to me  
 
 ## View My Portfolio:
-You can explore my live portfolio website here: [rishi-tiwari023.github.io/portfolio](https://rishi-tiwari023.github.io/portfolio)  
+You can explore my live portfolio website here: [rishi-tiwari023.github.io](https://rishi-tiwari023.github.io)  
 Feel free to check it out to learn more about me, my skills, and the work I’ve done!
